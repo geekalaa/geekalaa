@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekalaa&label=Profile%20views&color=0e75b6&style=flat" alt="geekalaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekalaa" alt="geekalaa" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=geekalaa)]()
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=geekalaa&column=7" alt="geekalaa" /> </p>
 
 - 🌱 I’m currently learning **Haystack,Celery and Redis**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😀, I'm Alaa Kaddour</h1>
-<h3 align="center">Passionate about the world of the web and endowed with great curiosity, I graduated from the Faculty of Economics and Management of Nabeul and a 5th year student specializing in WEB technologies at Esprit. Versatile and with 3 years of experience creating personal websites and for clients as a Freelancer. I specialize in backend, frontend and SEO optimization on Google and Bing, although I am able to do web integration and webdesign.</h3>
+<h3 align="center">I am a fullstack Web Developer, Software Engineer and a Webmaster, just a nerd person who wants to discover something new every day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekalaa&label=Profile%20views&color=0e75b6&style=flat" alt="geekalaa" /> </p>
 

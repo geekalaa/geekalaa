@@ -20,7 +20,7 @@
 <a href="https://codepen.io/geekalaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="geekalaa" height="30" width="40" /></a>
 <a href="https://dev.to/geekalaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="geekalaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaddouralaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaddouralaa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12782255/alaa-kaddour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12782255/alaa-kaddour" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12782255/alaa-kaddour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12782255/alaa-kaddour" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

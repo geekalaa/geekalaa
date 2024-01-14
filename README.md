@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=geekalaa&column=7" alt="geekalaa" /> </p>
 
-- 🌱 I’m currently learning **Haystack,Celery and Redis**
+<!-- - 🌱 I’m currently learning **AWS,Prefect an** -->
 
 - 👨‍💻 All of my projects are available at [https://kaddouralaa.topvoce.com](https://kaddouralaa.topvoce.com)
 

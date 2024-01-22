@@ -1,9 +1,14 @@
 <h1 align="center">Hi 😀, I'm Alaa Kaddour</h1>
-<h3 align="center">I am a fullstack Web Developer, Software Engineer and a Webmaster, just a nerd person who wants to discover something new every day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekalaa&label=Profile%20views&color=0e75b6&style=flat" alt="geekalaa" /> </p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=geekalaa&column=7" alt="geekalaa" /> </p>
+
+<p align="center">
+  <a href="https://github.com/geekalaa">
+    <img src="https://raw.githubusercontent.com/geekalaa/geekalaa/main/metrics.plugin.isocalendar.fullyear.svg" />
+  </a>
+</p>  
 
 <!-- - 🌱 I’m currently learning **AWS,Prefect an** -->
 

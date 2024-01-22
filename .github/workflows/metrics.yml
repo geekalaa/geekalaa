@@ -6,8 +6,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    permissions: write-all
     steps:
       # - name: Command
       #   run: |
@@ -47,3 +46,6 @@ jobs:
           #plugin_topics_mode: mastered
           #plugin_topics_limit: 20
           plugin_traffic: yes
+
+          plugin_calendar: true
+          plugin_calendar_limit: n > 3

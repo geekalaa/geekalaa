@@ -17,14 +17,16 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }} 
 
-          user: geekalaa
+          # user: geekalaa
           # template: classic
+          base: ""
+          filename: metrics.plugin.isocalendar.fullyear.svg
           # base: header, activity, community, repositories #, metadata
           # config_animations: yes
           config_timezone: Africa/Tunis
-          optimize: no
+          # optimize: no
           # repositories_forks: yes
-          use_prebuilt_image: yes
+          # use_prebuilt_image: yes
 
           # plugin_achievements: no
           # plugin_achievements_display: compact

@@ -48,4 +48,4 @@ jobs:
           plugin_traffic: yes
 
           plugin_calendar: true
-          plugin_calendar_limit: 0
+          plugin_calendar_limit: n < 2

@@ -7,11 +7,10 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=geekalaa&column=7&theme=onedark&no-frame=true" alt="geekalaa" /> </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/geekalaa">
     <img src="https://raw.githubusercontent.com/geekalaa/geekalaa/main/metrics.plugin.isocalendar.fullyear.svg" />
   </a>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="80">
 </p>  
 
 <!-- - 🌱 I’m currently learning **AWS,Prefect an** -->

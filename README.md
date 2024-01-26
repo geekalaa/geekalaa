@@ -1,5 +1,4 @@
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="80">
 <div id="header" align="center">
   <h1 align="center">Hi 😀, I'm Alaa Kaddour</h1>
 </div>
@@ -12,6 +11,7 @@
   <a href="https://github.com/geekalaa">
     <img src="https://raw.githubusercontent.com/geekalaa/geekalaa/main/metrics.plugin.isocalendar.fullyear.svg" />
   </a>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="80">
 </p>  
 
 <!-- - 🌱 I’m currently learning **AWS,Prefect an** -->

@@ -1,7 +1,7 @@
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="80">
 <div id="header" align="center">
   <h1 align="center">Hi 😀, I'm Alaa Kaddour</h1>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="90">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekalaa&label=Profile%20views&color=0e75b6&style=flat" alt="geekalaa" /> </p>

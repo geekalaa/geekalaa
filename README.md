@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=geekalaa&column=7&theme=onedark&no-frame=true" alt="geekalaa" /> </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/geekalaa">
     <img src="https://raw.githubusercontent.com/geekalaa/geekalaa/main/metrics.plugin.isocalendar.fullyear.svg" />
   </a>

@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Django, Python, Angular, react, nodejs, vanillajs, linux**
 
-- 📫 How to reach me **kaddour-alaa@topvoce.com**
+- 📫 How to reach me **alaa.kaddour.dev@gmail.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/kaddouralaa/](https://linkedin.com/in/kaddouralaa/)
 

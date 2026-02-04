@@ -15,7 +15,7 @@ jobs:
         run: |
           START_DATE="2022-02-01"
           CURRENT_DATE=$(date +%Y-%m-%d)
-          DAYS=$(python3 -c "from datetime import datetime; start = datetime.strptime('$START_DATE', '%Y-%m-%d'); now = datetime.strptime('$CURRENT_DATE', '%Y-%m-%d'); print((now - start).days)")
+          DAYS=$(python3 -c "from datetime import datetime; start = datetime.strptime('$START_DATE', '%Y-%m-%d'); now = datetime.strptime('$CURRENT_DATE', '%Y-%m-%d'); print((now - start).days + 365)")
           sed -i "s/<!-- DAYS_COUNT -->.*<!-- DAYS_COUNT -->/<!-- DAYS_COUNT -->$DAYS<!-- DAYS_COUNT -->/g" README.md
 
       - name: Generate metrics

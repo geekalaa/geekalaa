@@ -5,7 +5,7 @@
   <h2>.ekorb t'nod taht smetsys dliub I</h2>
   <h3 align="center">Software Engineer | Python & JavaScript Specialist | Microservices Architect</h3>
   <p align="center">
-    🌟 Day <b><!-- DAYS_COUNT -->1464<!-- DAYS_COUNT --></b> of turning coffee into code ☕
+    🌟 Day <b><!-- DAYS_COUNT -->1829<!-- DAYS_COUNT --></b> of turning coffee into code ☕
   </p>
 </div>
 
